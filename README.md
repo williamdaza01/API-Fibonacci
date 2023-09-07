@@ -1,4 +1,3 @@
-```markdown
 # Fibonacci Calculator API
 
 This is a simple RESTful API for calculating Fibonacci numbers. Given an index `n`, it returns the Fibonacci value at that index.

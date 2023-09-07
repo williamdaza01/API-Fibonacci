@@ -28,13 +28,13 @@ This is a simple RESTful API for calculating Fibonacci numbers. Given an index `
 3. Build the TypeScript code:
 
    ```bash
-   npx tsc
+   npm run build
    ```
 
 4. Run the server:
 
    ```bash
-   node dist/app.js
+   npm run start
    ```
 
 The API will be available at `http://localhost:3000`.
